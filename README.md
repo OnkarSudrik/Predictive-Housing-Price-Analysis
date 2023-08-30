@@ -15,7 +15,7 @@ The project utilizes two datasets: the Boston dataset and the Perth dataset.
    
 2. **Perth Dataset** (Imported from Kaggle, stored in 'Datasets' folder):
    - This dataset comprises housing-related data specific to the Perth region.
-   - The dataset is available in the 'Datasets' folder of this repository.
+   - The dataset is available in the files of this repository itself.
 
 ## Code Files
 
