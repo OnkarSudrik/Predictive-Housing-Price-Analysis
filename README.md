@@ -3,7 +3,7 @@
 
 # House Price Prediction Project
 
-Welcome to the House Price Prediction project repository! This project focuses on predicting house prices using the Boston and Perth datasets. The repository contains various code files that implement different predictive models and analyses. Below, you'll find a detailed guide to the contents of this repository.
+Welcome to the Predictive-Housing-Price-Analysis repository! This project focuses on predicting house prices using the Boston and Perth datasets. The repository contains various code files that implement different predictive models and analyses. Below, you'll find a detailed guide to the contents of this repository.
 
 ## Datasets
 
